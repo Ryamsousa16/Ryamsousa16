@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ryamsousa16
+- 👀 I’m interested in ... Back-end and Intelligence artificial
+- 🌱 I’m currently learning ... C# and ML
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... www.linkedin.com/in/ryam-sousa
