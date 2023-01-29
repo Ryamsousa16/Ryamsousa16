@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryamsousa16
+- 👋 Hi, I’m Ryam Sousa 
 - 👀 I’m interested in ... Back-end and Intelligence artificial
 - 🌱 I’m currently learning ... C# and Python for ML and deep learning
 - 📫 How to reach me ... www.linkedin.com/in/ryam-sousa
