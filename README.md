@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Ryam Sousa 
-- 👀 I’m interested in ... Back-end and Intelligence artificial
-- 🌱 I’m currently learning ... C# and Python for ML and deep learning
-- 📫 How to reach me ... www.linkedin.com/in/ryam-sousa
+Meu nome é Ryam Sousa, Sou estudante da Fatec Rubens Lara, cursando atualmente ciência de dados.
+Estou estudando muito sobre deep learning e automação.
