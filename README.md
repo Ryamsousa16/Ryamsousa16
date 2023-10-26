@@ -3,6 +3,10 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou desenvolvedor e apaixonado por programação, IAs, Automação e novas tecnologias.<br> Atualmente cursando tecnólogo em ciência de dados!</p>&nbsp;
+
+ <div  align="center" style="margin-bottom:100px">
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ryamsousa16&theme=radical&mode=weekly" />
+ </div>
  
  &nbsp;
  &nbsp;
