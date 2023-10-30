@@ -4,13 +4,7 @@
 
 <p align="center">Sou desenvolvedor e apaixonado por programação, IAs, Automação e novas tecnologias.<br> Atualmente cursando tecnólogo em ciência de dados!</p>&nbsp;
 
- <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ryamsousa16&theme=radical&mode=weekly" />
- </div>
- 
  &nbsp;
- &nbsp;
-
 
 
 ## Minhas habilidades
@@ -34,7 +28,7 @@
 #### Estudando nesse momento:
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 #### Banco de dados:
 
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
