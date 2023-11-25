@@ -1,5 +1,7 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4D16AQFTnQPVzCAP_w/profile-displaybackgroundimage-shrink_350_1400/0/1689814362956?e=1703721600&v=beta&t=hVzv1ow9kTfLh6qONBdZk7gt70D4QtEy2tlwpXmPGMk" />
+<div align="center">
+  <a href="https://github.com/Ryamsousa16">
+  <img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4D16AQFTnQPVzCAP_w/profile-displaybackgroundimage-shrink_350_1400/0/1689814362956?e=1703721600&v=beta&t=hVzv1ow9kTfLh6qONBdZk7gt70D4QtEy2tlwpXmPGMk" />
+</div>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou desenvolvedor e apaixonado por programação, IAs, Automação e novas tecnologias.<br> Atualmente cursando tecnólogo em ciência de dados!</p>&nbsp;
