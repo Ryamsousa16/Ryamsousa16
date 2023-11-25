@@ -4,9 +4,8 @@
 </div>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Sou desenvolvedor e apaixonado por programação, IAs, Automação e novas tecnologias.<br> Atualmente cursando tecnólogo em ciência de dados!</p>&nbsp;
+<p align="center">Sou desenvolvedor e apaixonado por programação, IAs, Automação e novas tecnologias.<br> Atualmente cursando tecnólogo em ciência de dados!</p>
 
-&nbsp;
 <div align="center">
   <a href="https://github.com/Ryamsousa16">
   <img height="180em" src="http://github-readme-stats-git-master-devgabrielmarcondes.vercel.app//api?username=Ryamsousa16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
