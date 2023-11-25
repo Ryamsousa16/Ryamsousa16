@@ -4,8 +4,12 @@
 
 <p align="center">Sou desenvolvedor e apaixonado por programação, IAs, Automação e novas tecnologias.<br> Atualmente cursando tecnólogo em ciência de dados!</p>&nbsp;
 
- &nbsp;
-
+&nbsp;
+<div align="center">
+  <a href="https://github.com/Ryamsousa16">
+  <img height="180em" src="http://github-readme-stats-git-master-devgabrielmarcondes.vercel.app//api?username=Ryamsousa16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="http://github-readme-stats-git-master-devgabrielmarcondes.vercel.app//api/top-langs/?username=Ryamsousa16&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 ## Minhas habilidades
 
