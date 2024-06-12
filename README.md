@@ -1,16 +1,16 @@
 <div align="center">
-  <a href="https://github.com/Ryamsousa16">
+  <!--><a href="https://github.com/Ryamsousa16">
   <img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4D16AQFTnQPVzCAP_w/profile-displaybackgroundimage-shrink_350_1400/0/1689814362956?e=1703721600&v=beta&t=hVzv1ow9kTfLh6qONBdZk7gt70D4QtEy2tlwpXmPGMk" />
 </div>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou desenvolvedor e apaixonado por programação, IAs, Automação e novas tecnologias.<br> Atualmente cursando tecnólogo em ciência de dados!</p>
 
-<div align="center">
-  <a href="https://github.com/Ryamsousa16">
-  <img height="180em" src="http://github-readme-stats-git-master-devgabrielmarcondes.vercel.app//api?username=Ryamsousa16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="http://github-readme-stats-git-master-devgabrielmarcondes.vercel.app//api/top-langs/?username=Ryamsousa16&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<!--><div align="center">
+  <!--><a href="https://github.com/Ryamsousa16">
+ <!--> <img height="180em" src="http://github-readme-stats-git-master-devgabrielmarcondes.vercel.app//api?username=Ryamsousa16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+ <!--> <img height="180em" src="http://github-readme-stats-git-master-devgabrielmarcondes.vercel.app//api/top-langs/?username=Ryamsousa16&layout=compact&langs_count=7&theme=github_dark"/>
+<!--></div>
 
 ## Minhas habilidades
 
@@ -21,7 +21,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!--><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Habilidades secundárias:
 
